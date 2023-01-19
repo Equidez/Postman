@@ -1,0 +1,33 @@
+{
+	"id": "7939d413-b324-4d08-8d0d-d0e42f4c1cd5",
+	"values": [
+		{
+			"key": "urlechoglobal",
+			"value": "https://postman-echo.com/",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "edadAleatoria",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "TextoRandom",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "IP",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2023-01-19T01:40:41.274Z",
+	"_postman_exported_using": "Postman/10.8.1"
+}
